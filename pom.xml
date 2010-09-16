@@ -11,7 +11,7 @@
   <artifactId>DelayedNullSCM</artifactId>
   <name>Delyed Null SCM Plugin</name>
   <description>Provides a SCM plugin similar to the NullSCM. In addition a sleep time can be defined to simulate long running polling activities</description>
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <!-- get every artifact through maven.glassfish.org, which proxies all the artifacts that we need -->
